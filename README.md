@@ -51,7 +51,7 @@ Before deploying any roles, a static IP configuration was established on the Win
 * **Implementation Screenshot:**  
   ![PowerShell Script & OUs](images/ticket03.png)
 
-  ![PowerShell Script & OUs](images/ticket03.1s.png)
+  ![PowerShell Script & OUs](images/ticket03.1.png)
 
 
 #### 04 & 05: Password Complexity & Account Lockout Guardrails
